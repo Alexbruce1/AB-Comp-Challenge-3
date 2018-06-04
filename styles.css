@@ -817,9 +817,33 @@ li {
     width: 80%;
   }
 
+  .resume-header {
+    height: 8rem;
+  }
+
+  ul {
+    padding: 0 .5rem;
+  }
+
+  .job-description {
+    margin: 1rem 0;
+    text-align: center;
+    width: 100%;
+  }
+
+  .list-edit-button {
+    display: block;
+    margin: 0 auto;
+    width: 10rem;
+  }
+
+  .resume-left {
+    line-height: 0rem;
+  }
+
   .social-article {
-    margin: 1rem 10%;
-    width: 80%;
+    margin: 0 5%;
+    width: 90%;
   }
 }
 
